@@ -61,7 +61,7 @@ pip install -r requirements.txt
 bash
 Copy code
 python -m uvicorn app:app --reload
-3️⃣ Open Swagger UI
+3️⃣ Open HOPPSCOTCH
 arduino
 Copy code
 http://127.0.0.1:8000/docs
